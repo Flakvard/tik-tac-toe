@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tik-tak-toe-b8c50": {
+      "hosting": {
+        "tik-tac-toe": [
+          "tik-tak-toe-b8c50"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tik-tak-toe-b8c50"
+  }
+}
